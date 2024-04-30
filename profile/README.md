@@ -1,6 +1,6 @@
 # Welcome to the Coolosos organization
 
-[coolosos](https://avatars.githubusercontent.com/u/126026123?s=200&v=4)
+![coolosos](https://avatars.githubusercontent.com/u/126026123?s=200&v=4 "coolosos")
 
 ## Repositories
 
