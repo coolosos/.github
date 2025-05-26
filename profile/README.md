@@ -52,4 +52,4 @@ Feel free to open an issue or discussion in any of our repositories. We're alway
 
 Together, let’s keep making Dart and Flutter development more joyful for everyone.
 
-🐻 **Coolosos** – where cool ideas and coolossal code come together.
+🐻 **Coolosos** – where coolossal ideas and cool code come together.
