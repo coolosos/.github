@@ -2,7 +2,7 @@
 
 ![coolosos](https://avatars.githubusercontent.com/u/126026123?s=200&v=4 "coolosos")
 
-**coolosos** is an open GitHub organization created by a group of senior Flutter developers who share a deep passion for clean, scalable, and enjoyable software development. We focus primarily on building packages and tools that improve the Dart and Flutter application ecosystem.
+**Coolosos** is an open GitHub organization created by a group of senior Flutter developers who share a deep passion for clean, scalable, and enjoyable software development. We focus primarily on building packages and tools that improve the Dart and Flutter application ecosystem.
 
 ## 🎯 What We Do
 
@@ -52,4 +52,4 @@ Feel free to open an issue or discussion in any of our repositories. We're alway
 
 Together, let’s keep making Dart and Flutter development more joyful for everyone.
 
-🌐 **Coolosos** – where cool ideas and coolossal code come together.
+🐻 **Coolosos** – where cool ideas and coolossal code come together.
