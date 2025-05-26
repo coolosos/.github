@@ -4,7 +4,7 @@
 
 **Coolosos** is an open GitHub organization created by a group of senior Flutter developers who share a deep passion for clean, scalable, and enjoyable software development. We focus primarily on building packages and tools that improve the Dart and Flutter application ecosystem.
 
-## 🎯 What We Do
+## 🎯 Behind Coolosos
 
 We design and maintain packages that:
 
