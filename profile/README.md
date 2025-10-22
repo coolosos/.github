@@ -33,8 +33,9 @@ Here are a few of the packages we're actively developing:
 - [`coolint`](https://github.com/coolosos/coolint): Lint rules to keep your Dart & Flutter codebase clean and consistent.
 - [`mason_structure`](https://github.com/coolosos/mason_structure): Mason utilities for rapidly scaffolding Dart and Flutter projects.
 - [`networkcoolclient`](https://github.com/coolosos/networkcoolclient): A powerful network layer with session handling and real-time network state tracking
-- [`shelf_packages`](https://github.com/coolosos/shelf_packages): Server utilities for shelf-based Dart backends.
-
+- [`wildness_ui`](https://github.com/coolosos/wildness_ui): Wildness UI is a Flutter UI component library designed to help you build modern, accessible, and consistent interfaces with ease.
+- [`dart-valkey`](https://github.com/coolosos/dart-valkey): Dart client for Valkey (and Redis-compatible servers)
+  
 ## 🛠 Ways to Contribute
 
 Want to contribute? We’d love to have you on board. Here’s how to start:
